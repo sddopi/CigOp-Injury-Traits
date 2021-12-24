@@ -1,0 +1,5 @@
+UI_EN = {
+    UI_trait_injured = "Injured",
+    UI_trait_injureddesc = "You begin the game with moderate injuries.<br>Note: You won't start with zombification and your wounds are bandaged.",
+    UI_trait_broke = "Broke Leg",
+    UI_trait_brokedesc = "Ouch! You start with a broken leg, a severely debilitating injury.<br>Note: Your leg will be splinted.",
